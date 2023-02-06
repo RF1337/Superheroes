@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superhero", "Superhero\Superhero.csproj", "{7A2E317B-1C5F-41B5-83A9-C260AEA7AEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2E317B-1C5F-41B5-83A9-C260AEA7AEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2E317B-1C5F-41B5-83A9-C260AEA7AEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2E317B-1C5F-41B5-83A9-C260AEA7AEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2E317B-1C5F-41B5-83A9-C260AEA7AEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE3D7D3-DC4A-4BE6-B8CD-8EC50DDE8503}
+	EndGlobalSection
+EndGlobal
